@@ -1,2 +1,2 @@
 # colab
-learning colab repot
+this repot is for training to colaboration on git hub
